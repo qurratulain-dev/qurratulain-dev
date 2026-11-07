@@ -1,8 +1,8 @@
 # Hi, I'm Qurratulain Naseem 👋
 
-**Full-Stack Web Developer based in Lahore, Pakistan.** I build reliable, production-ready web applications with **Laravel, PHP, MySQL and React.js**, and I create custom **WordPress plugins**. Currently exploring **AI/ML** to bring smarter features into web apps.
+**Full-Stack Web Developer moving into AI-powered web applications, based in Lahore, Pakistan.** I build reliable, production-ready web apps with **Laravel, PHP, MySQL and React.js**, and I'm now focused on integrating **AI and machine learning** into them: smart features, AI-driven APIs and data-powered user experiences. I'm currently training in **Artificial Intelligence (Huawei HCCDA-AI)** and also create custom **WordPress plugins**.
 
-🟢 **Open to Full-Stack, Laravel and React.js opportunities in Lahore (on-site or hybrid).**
+🟢 **Open to Full-Stack and AI-integrated web development roles (Laravel, React.js, Python/ML) in Lahore, on-site or hybrid.**
 
 ---
 
@@ -29,7 +29,7 @@
 **Frontend:** React.js · JavaScript (ES6+) · Redux Toolkit · Tailwind CSS · Bootstrap · HTML · CSS · jQuery
 **CMS:** WordPress · Custom Plugin Development
 **Tools:** Git · GitHub · Postman
-**AI/ML:** Python · Jupyter Notebook · NumPy · Pandas · Matplotlib · Seaborn
+**AI/ML:** Python · Machine Learning · Jupyter Notebook · NumPy · Pandas · Matplotlib · Seaborn
 
 ---
 
