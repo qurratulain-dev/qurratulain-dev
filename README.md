@@ -49,6 +49,7 @@
 ## 🎓 Education & Certifications
 
 - **BS Computer Science**, Virtual University of Pakistan (2022 – 2026), CGPA 3.69/4.0
+- **Huawei HCCDA – Artificial Intelligence** (in progress), NAVTTC HCTP Batch II, Cyberpulse Institute of Technology, Lahore
 - **Certificate in Web Design & Development**, TEVTA (2025), 94% practical proficiency
 - Build & Publish WordPress Plugins with AI, WPAcademy.PK (2026)
 - Certificate of Trade Proficiency – Web Designing, Punjab Trade Testing Board (2026)
