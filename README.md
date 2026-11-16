@@ -56,4 +56,4 @@ The Mental Health and Blood on Click demos run on free hosting, so the first vis
 
 ## Connect
 
-[Portfolio](https://quratulain-naseem.vercel.app) · [LinkedIn](https://www.linkedin.com/in/qurratulain-reactdeveloper) · [Email](mailto:dev.quratulain@gmail.com)
+[Portfolio](https://quratulain-naseem.vercel.app) · [LinkedIn](https://www.linkedin.com/in/qurratulain-dev/) · [Email](mailto:dev.quratulain@gmail.com)
