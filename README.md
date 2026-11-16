@@ -1,8 +1,6 @@
 # Hi, I'm Qurratulain Naseem
 
-**Full-Stack Developer based in Lahore, Pakistan.** I build production web applications and REST APIs with **Laravel and React**, and I am currently training in **Artificial Intelligence** through the Huawei HCCDA-AI program, with hands-on work in Python, machine learning, model training, and deployment.
-
-I'm growing toward building AI-powered web applications with integrated chatbots and agents that automate real workflows.
+Full-Stack Developer with production experience building scalable web applications, POS systems and RESTful APIs using Laravel, React.js, PHP and MySQL. Trained in Artificial Intelligence through the Huawei HCCDA-AI program in Lahore, with hands-on experience in Python, machine learning, model training and deployment. Driven to grow as an AI-focused Full-Stack Engineer, building web applications with integrated LLM-powered chatbots and AI agents that automate real business processes.
 
 🟢 **Open to full-time roles, freelance projects, and remote opportunities.**
 
