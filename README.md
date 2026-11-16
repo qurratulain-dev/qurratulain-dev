@@ -1,63 +1,61 @@
-# Hi, I'm Qurratulain Naseem 👋
+# Hi, I'm Qurratulain Naseem
 
-**Full-Stack Web Developer moving into AI-powered web applications, based in Lahore, Pakistan.** I build reliable, production-ready web apps with **Laravel, PHP, MySQL and React.js**, and I'm now focused on integrating **AI and machine learning** into them: smart features, AI-driven APIs and data-powered user experiences. I'm currently training in **Artificial Intelligence (Huawei HCCDA-AI)** and also create custom **WordPress plugins**.
+**Full-Stack Developer based in Lahore, Pakistan.** I build production web applications and REST APIs with **Laravel and React**, and I am currently training in **Artificial Intelligence** through the Huawei HCCDA-AI program, with hands-on work in Python, machine learning, model training, and deployment.
 
-🟢 **Open to Full-Stack and AI-integrated web development roles (Laravel, React.js, Python/ML) in Lahore, on-site or hybrid.**
+I'm growing toward building AI-powered web applications with integrated chatbots and agents that automate real workflows.
 
----
-
-## 💼 Experience
-
-**Junior Full-Stack Developer, Bitstorm Solutions** (Mar 2026 – Oct 2026)
-- Built backend logic and REST APIs for an admin dashboard
-- Developed POS billing, inventory and real-time sync modules with React.js, Laravel and optimized MySQL queries
-- Shipped code through Git workflows, peer code reviews and Agile sprints
-
-**Full-Stack Development Intern, Bitstorm Solutions** (Nov 2025 – Feb 2026)
-- Grew from React frontend work into PHP / Laravel / MySQL
-- Worked in a 2–3 member team on a POS reporting module
-
-**Front-End Developer (React.js), Independent Projects** (May 2025 – Nov 2025)
-- Built 8+ responsive React apps with Tailwind CSS, Redux Toolkit and Context API
-- Created a reusable component library that cut boilerplate by ~25%, with Lighthouse scores above 90
+🟢 **Open to full-time roles, freelance projects, and remote opportunities.**
 
 ---
 
-## 🛠 Tech Stack
+## Experience
 
-**Backend:** PHP · Laravel · MySQL · REST APIs
-**Frontend:** React.js · JavaScript (ES6+) · Redux Toolkit · Tailwind CSS · Bootstrap · HTML · CSS · jQuery
-**CMS:** WordPress · Custom Plugin Development
-**Tools:** Git · GitHub · Postman
-**AI/ML:** Python · Machine Learning · Jupyter Notebook · NumPy · Pandas · Matplotlib · Seaborn
+**Junior Full-Stack Developer — Bitstorm Solutions, Gujranwala, PK** (Feb 2026 – Oct 2026)
+- Independently architected and developed the complete backend with REST APIs, including an admin dashboard for user management and role-based access control
+- Engineered core POS modules: billing, inventory tracking, and real-time sync
+- Delivered production-ready code through Git workflows, code reviews, and team collaboration
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Blood on Click – Backend](https://github.com/qurratulain-dev/blood-on-click-backend-) | REST API for a blood donation management system | Laravel · PHP · MySQL |
-| [Blood on Click – Frontend](https://github.com/qurratulain-dev/blood-on-click-frontend-) | Frontend for the blood donation platform | React.js |
-| [Full Auth with Tokens](https://github.com/qurratulain-dev/Full_Auth_with_tokens-) | Authentication system with access and refresh tokens | Laravel |
-| [Company Task System](https://github.com/qurratulain-dev/company-task-system) | Task management system for companies | Laravel · Breeze |
-| [Laravel Quiz System](https://github.com/qurratulain-dev/Laravel-Quiz-System) | Online quiz system | Laravel · PHP · MySQL |
-| [Portfolio](https://github.com/qurratulain-dev/portfolio) | My personal portfolio ([live](https://quratulain-naseem.vercel.app)) | React.js · Tailwind CSS |
+**Web Development Intern — Bitstorm Solutions, Gujranwala, PK** (Nov 2025 – Feb 2026)
+- Expanded from React frontend work into PHP, Laravel, and MySQL in a production environment
+- Co-developed a reporting module for a POS system with the development team
+- Followed professional practices including Git branching and code reviews
 
 ---
 
-## 🎓 Education & Certifications
+## Tech Stack
 
-- **BS Computer Science**, Virtual University of Pakistan (2022 – 2026), CGPA 3.69/4.0
-- **Huawei HCCDA – Artificial Intelligence** (in progress), NAVTTC HCTP Batch II, Cyberpulse Institute of Technology, Lahore
-- **Certificate in Web Design & Development**, TEVTA (2025), 94% practical proficiency
-- Build & Publish WordPress Plugins with AI, WPAcademy.PK (2026)
-- Certificate of Trade Proficiency – Web Designing, Punjab Trade Testing Board (2026)
-- CCNAv7: Introduction to Networks and Programming Essentials in C++, Cisco Networking Academy
+**Frontend:** React.js · JavaScript (ES6+) · Tailwind CSS · Bootstrap · HTML5 · CSS3 · jQuery · GSAP  
+**Backend:** Laravel · PHP · RESTful APIs · Laravel Sanctum · Authentication & Authorization · Queues & Jobs · FastAPI  
+**AI & Machine Learning:** Python · NumPy · Pandas · Scikit-learn · TensorFlow · Data Preprocessing · EDA · Classification · Regression · Model Training & Evaluation · Model Deployment  
+**Database:** MySQL · PostgreSQL · Query Optimization · Database Design  
+**CMS & E-Commerce:** WordPress · WooCommerce · Plugin Integration  
+**Tools & Deployment:** Git · GitHub · Docker · Postman · VS Code · Vercel · Render
 
 ---
 
-## 📫 Connect with me
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qurratulain-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://quratulain-naseem.vercel.app)
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| [Mental Health Score Prediction](https://github.com/qurratulain-dev/mental-health-score-prediction) | Predicts a student's mental health score (0–10) from sleep, study, social media, and lifestyle habits. A scikit-learn Random Forest pipeline, tuned with GridSearchCV, is served through a FastAPI REST API with a web form that updates the score live. | Python · scikit-learn · Pandas · FastAPI · Pydantic · Render | [Live demo](https://mental-health-score-prediction-4foq.onrender.com) |
+| [Blood on Click](https://github.com/qurratulain-dev/blood-on-click-frontend-) | Full-stack blood donation platform with separate dashboards for donors, blood banks, and admins: search, blood requests, stock management, donation records, eligibility assessments, and notifications. | React · Vite · Tailwind CSS · TanStack Query · Laravel 12 · Sanctum · PostgreSQL · Docker | [Live demo](https://blood-on-click.vercel.app) · [Backend](https://github.com/qurratulain-dev/blood-on-click-backend-) |
+| [Petuk](https://github.com/qurratulain-dev/Petuk) | Animated, responsive pizza and food delivery website with live search, filters and sorting, a cart drawer, a validated checkout flow, saved order history, and a delivery tracking stepper. | React 19 · Vite · Tailwind CSS · React Router · Framer Motion · GSAP | [Live demo](https://petuk-ashy.vercel.app) |
+| [Personal Portfolio](https://github.com/qurratulain-dev/portfolio) | Responsive personal portfolio with GSAP animations, deployed on Vercel. | React 19 · Vite · Tailwind CSS 4 · GSAP · Vercel | [Live site](https://quratulain-naseem.vercel.app) |
+
+The Mental Health and Blood on Click demos run on free hosting, so the first visit can take 30–50 seconds to wake up.
+
+---
+
+## Education & Certifications
+
+- **BS Computer Science**, Virtual University of Pakistan (2022 – 2026), CGPA 3.69 / 4.0
+- **HCCDA–Artificial Intelligence | HCPT Batch II**, CyberPulse Institute of Technology, Lahore, PK (Sep 2026 – Present)
+- Build & Publish WordPress Plugins with AI & Vibe Coding — WP Academy (Aug 2026)
+- Prompt Engineering — One Million Prompters, Dubai Future Foundation (2026)
+- Web Designing — TEVTA LESC, Gujranwala (Apr 2025 – Sep 2025)
+
+---
+
+## Connect
+
+[Portfolio](https://quratulain-naseem.vercel.app) · [LinkedIn](https://www.linkedin.com/in/qurratulain-reactdeveloper) · [Email](mailto:dev.quratulain@gmail.com)
